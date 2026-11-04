@@ -10,29 +10,5 @@
 <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/runbear-io/larkin-releases/releases/download/v0.1.0/Larkin-0.1.0.zip" length="2879443" type="application/octet-stream" sparkle:edSignature="4E5TQf+hVySyjuaFJh6Yq8yhm3+KiTheeDg5JhIZKAnJSlJo3wm+xjRG+BHMkmsWW98A6q/sPp6PiFrU/6Y1AQ=="/>
 </item>
-<item>
-<title>Larkin 0.5.2</title>
-<pubDate>Wed, 04 Nov 2026 19:27:04 GMT</pubDate>
-<sparkle:version>0.5.2</sparkle:version>
-<sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/runbear-io/larkin-releases/releases/download/v0.5.2/Larkin-0.5.2.zip" length="2879442" type="application/octet-stream" sparkle:edSignature="exk56+cjjtVnogqrUQgbueP8PPiJfG/rOXsmQh/ZPRCEfzZZxa4zgLzYVEd4yodvdXfkaBvUfrrwA+0YphUcAw=="/>
-</item>
-<item>
-<title>Larkin 0.5.1</title>
-<pubDate>Wed, 04 Nov 2026 19:21:54 GMT</pubDate>
-<sparkle:version>0.5.1</sparkle:version>
-<sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/runbear-io/larkin-releases/releases/download/v0.5.1/Larkin-0.5.1.zip" length="2869386" type="application/octet-stream" sparkle:edSignature="MwaiHCLGZWHZJg0BKd1ugaAJlDJbm41QQnYpNNOrvhpxWF2osm7Xk/sts/UJ9jK0bmHhCOmDbpLumCcJUfvWBQ=="/>
-</item>
-<item>
-<title>Larkin 0.5.0</title>
-<pubDate>Wed, 04 Nov 2026 19:18:43 GMT</pubDate>
-<sparkle:version>0.5.0</sparkle:version>
-<sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/runbear-io/larkin-releases/releases/download/v0.5.0/Larkin-0.5.0.zip" length="2869387" type="application/octet-stream" sparkle:edSignature="x4aJ13H9HfojbK9PF2yGNa9iRpFWwyz92lgqamRYe8dT6qDNjsrxDJw2kE8yM5YoThTfmLLq5yFlcyY5BpT6BQ=="/>
-</item>
 </channel>
 </rss>
