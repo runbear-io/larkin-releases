@@ -3,6 +3,14 @@
 <channel>
 <title>Larkin</title>
 <item>
+<title>Larkin 0.1.22</title>
+<pubDate>Thu, 05 Nov 2026 16:13:54 GMT</pubDate>
+<sparkle:version>75</sparkle:version>
+<sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/runbear-io/larkin-releases/releases/download/v0.1.22/Larkin-0.1.22.zip" length="3207651" type="application/octet-stream" sparkle:edSignature="12r8RlgYqabEZPSAj9g9g05L2bbNHqP8wNfQiPm+hx6UfQ/5+I7wcwgBt3NZoLUJ94eQGc9yX6A4qjh2JPEdCA=="/>
+</item>
+<item>
 <title>Larkin 0.1.21</title>
 <pubDate>Thu, 05 Nov 2026 07:18:45 GMT</pubDate>
 <sparkle:version>74</sparkle:version>
